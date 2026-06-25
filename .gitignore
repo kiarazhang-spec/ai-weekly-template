@@ -1,0 +1,13 @@
+# Local & editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.log
+
+# WorkBuddy / agent workspace files (never commit these)
+.workbuddy/
+
+# Node (in case anyone runs scripts locally)
+node_modules/
+npm-debug.log*
